@@ -165,8 +165,6 @@ I'm always interested in exciting projects and collaboration opportunities. Whet
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=marwaneTRK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-
 **Open to freelance opportunities and full-time positions**
 
 *Currently building AI-powered solutions @ Orange Digital Center*
