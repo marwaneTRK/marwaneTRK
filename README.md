@@ -1,161 +1,178 @@
 <div align="center">
 
-# 👋 Hey, I'm Marwane Traiki
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Marwane%20Traiki&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20JavaScript%20Developer%20|%20Turning%20Ideas%20Into%20Reality&descAlignY=55&descAlign=50)
 
-### Frontend Developer | UI/UX Enthusiast | Algorithm Lover
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Beautiful+Interfaces;Crafting+Seamless+Experiences;Solving+Complex+Problems;From+Morocco+🇲🇦+with+Code" alt="Typing SVG" />
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-traiki-59a00a256)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwantraiki@gmail.com)
+### 🚀 Building High-Performance Web Applications That Scale
+
+**4+ Years Crafting Digital Solutions** • **MERN Stack Expert** • **AI Integration Specialist**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marwan-traiki-59a00a256)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:marwantraiki@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=for-the-badge&logo=google-chrome)](https://github.com/marwaneTRK)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💼 What I Do
 
-```javascript
-const marwane = {
-    location: "Morocco 🇲🇦",
-    currentFocus: ["Next.js", "Three.js", "Advanced Animations"],
-    expertise: ["React", "JavaScript", "TailwindCSS"],
-    philosophy: "The more I learn, the less I code - because quality > quantity",
-    passion: "Algorithms and the beautiful headache of persistence",
-    status: "Just let me learn in peace 🧠"
+I transform complex business challenges into elegant, scalable web solutions. With 4+ years of hands-on experience, I specialize in building modern full-stack applications that users love and businesses depend on.
+
+```typescript
+const expertise = {
+  specialization: "Full-Stack JavaScript Development",
+  focus: ["Performance Optimization", "Real-Time Systems", "AI Integration", "Cloud Architecture"],
+  approach: "End-to-end delivery from concept to deployment",
+  passion: "Solving problems that matter"
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 🎯 Core Services
 
-### 💡 What I'm Up To
+<table>
+<tr>
+<td width="50%">
 
-- 🎯 Diving deep into **Next.js** and **Three.js**
-- 🎨 Creating pixel-perfect, responsive interfaces
-- 🧩 Solving algorithmic challenges
-- 📚 Learning something new every single day
-- ✨ Building projects that make a difference
+### 🎨 Frontend Excellence
+Building lightning-fast, responsive interfaces that deliver exceptional user experiences.
 
-### 💬 Let's Talk About
+**Technologies:**
+- ⚛️ React.js & Next.js
+- 📘 TypeScript
+- 🎨 Tailwind CSS & Modern UI
+- 🔄 State Management (Redux, React Query)
+- ⚡ Performance Optimization
 
-**React** • **JavaScript** • **TailwindCSS** • **Frontend Architecture** • **UI/UX Design** • **Web Performance**
+</td>
+<td width="50%">
 
----
+### ⚙️ Backend Architecture
+Designing robust, scalable server solutions that handle millions of requests.
 
-## 🛠️ Tech Arsenal
+**Technologies:**
+- 🟢 Node.js & Express
+- 🐍 FastAPI (Python)
+- 🔐 JWT Authentication
+- 📡 RESTful APIs
+- 🔌 Real-time (Socket.io)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ Database & Caching
+Architecting efficient data layers for optimal performance.
+
+**Technologies:**
+- 🍃 MongoDB
+- ⚡ Redis Caching
+- 🔍 Vector Databases (RAG)
+- 📊 MySQL
+- 🔄 Database Optimization
+
+</td>
+<td width="50%">
+
+### ☁️ DevOps & Deployment
+Streamlining workflows from development to production.
+
+**Technologies:**
+- 🐳 Docker & Kubernetes
+- ☁️ AWS Cloud Services
+- 🔄 CI/CD (Jenkins)
+- 🐧 Linux Systems
+- 📦 Microservices
+
+</td>
+</tr>
+</table>
+
+## 🤖 AI-Powered Solutions
+
+Integrating cutting-edge AI capabilities into web applications:
+- 🧠 **RAG Systems** - Smart document processing & retrieval
+- 💬 **Conversational AI** - Intelligent chatbots & assistants
+- 🎯 **AI-Driven Features** - Quiz generation, summaries, insights
+- 🔗 **API Integration** - Groq, OpenAI, ElevenLabs
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### Frontend & Design
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Backend & Database
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
 
----
-
-## 📊 GitHub Stats
+## 🌍 Working With Clients Worldwide
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+| 🇲🇦 Morocco | 🇨🇦 Canada | 🇫🇷 France | 🇨🇳 China |
+|:---:|:---:|:---:|:---:|
+| **Based** | **Clients** | **Education** | **Education** |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+**Languages:** Arabic (Native) • French (Fluent) • English (Professional)
 
 </div>
 
----
+## 🎓 Continuous Learning
 
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Marwane))
-    Frontend Mastery
-      Next.js
-      Three.js
-      Advanced React Patterns
-    Design
-      UI/UX Principles
-      Animations
-      Responsive Design
-    Algorithms
-      Problem Solving
-      Data Structures
-      Optimization
-    Learning
-      Documentation
-      Best Practices
-      New Technologies
+```javascript
+const currentFocus = {
+  mastering: ["Kubernetes", "Advanced AI Integration", "System Design"],
+  exploring: ["Three.js", "WebGL", "Advanced Animations"],
+  practicing: ["Clean Architecture", "Design Patterns", "Scalability"],
+  teaching: ["Mentoring junior developers", "Tech community contribution"]
+};
 ```
 
----
+## 🤝 Let's Build Something Amazing
 
-## 🌟 Featured Projects
+I'm always interested in exciting projects and collaboration opportunities. Whether you need:
 
-<div align="center">
+- ✨ A modern web application from scratch
+- 🔄 Legacy system modernization
+- 🚀 Performance optimization
+- 🤖 AI integration into existing platforms
+- 👥 Technical consultation
+- 📈 Scalable architecture design
 
-<!-- Add your best projects here when you have them -->
-<!-- Example format:
-[![Project Name](https://img.shields.io/badge/Project-Name-blue?style=for-the-badge)](link)
-**Brief description of what it does**
--->
-
-Coming soon... Building something amazing! 🚀
-
-</div>
-
----
-
-## 💭 Philosophy
-
-> *"The more I learn, the less I code - because understanding beats rushing."*
-
-> *"Algorithms give me headaches, persistence gives me solutions."*
-
-> *"Just let me learn in peace - the code will follow."*
-
----
+**I turn ideas into production-ready solutions.**
 
 <div align="center">
 
-### 📫 Let's Connect!
+### 📬 Get In Touch
 
-**Open to collaborations, interesting projects, and great conversations!**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-traiki-59a00a256)
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwantraiki@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-traiki-59a00a256)
+[![Email](https://img.shields.io/badge/Gmail-marwantraiki@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwantraiki@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+212_624_539_804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212624539804)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=marwaneTRK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-**⭐️ From [Marwane Traiki](https://github.com/YOUR_GITHUB_USERNAME)**
+**Open to freelance opportunities and full-time positions**
+
+*Currently building AI-powered solutions @ Orange Digital Center*
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
