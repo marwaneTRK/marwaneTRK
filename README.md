@@ -84,7 +84,7 @@ Streamlining workflows from development to production.
 **Technologies:**
 - 🐳 Docker & Kubernetes
 - ☁️ AWS Cloud Services
-- 🔄 CI/CD (Jenkins)
+- 🔄 CI/CD (Github Action)
 - 🐧 Linux Systems
 - 📦 Microservices
 
