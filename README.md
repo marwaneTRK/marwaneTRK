@@ -1,176 +1,100 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Marwane%20Traiki&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20JavaScript%20Developer%20|%20Turning%20Ideas%20Into%20Reality&descAlignY=55&descAlign=50)
+# Hey, I'm Marwane Traiki 👋
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E040FB&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;MERN+%2B+AI+Integration+Specialist;Open+to+Freelance+%26+Full-Time)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-### 🚀 Building High-Performance Web Applications That Scale
-
-**4+ Years Crafting Digital Solutions** • **MERN Stack Expert** • **AI Integration Specialist**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marwan-traiki-59a00a256)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:marwantraiki@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=for-the-badge&logo=google-chrome)](https://github.com/marwaneTRK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-traiki-59a00a256)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwantraiki@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=marwaneTRK&style=for-the-badge&color=E040FB)](https://github.com/marwaneTRK)
 
 </div>
 
 ---
-
-## 💼 What I Do
-
-I transform complex business challenges into elegant, scalable web solutions. With 4+ years of hands-on experience, I specialize in building modern full-stack applications that users love and businesses depend on.
-
 ```typescript
-const expertise = {
-  specialization: "Full-Stack JavaScript Development",
-  focus: ["Performance Optimization", "Real-Time Systems", "AI Integration", "Cloud Architecture"],
-  approach: "End-to-end delivery from concept to deployment",
-  passion: "Solving problems that matter"
+const marwane = {
+  role:      "Full-Stack JavaScript Developer",
+  location:  "Morocco 🇲🇦 — Available Worldwide 🌍",
+  focus:     ["React", "Node.js", "Express", "NestJS", "TypeScript", "MongoDB", "Docker"],
+  ai:        ["RAG Systems", "OpenAI", "Groq", "ElevenLabs"],
+  languages: ["Arabic", "French", "English"],
+  available:  true // ✅ Freelance & Full-Time
 };
 ```
 
-## 🎯 Core Services
+---
+
+## 🛠️ Stack
+
+<p align="left">
+<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/></a>&nbsp;
+<a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
+</p>
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Joi](https://img.shields.io/badge/Joi-0080FF?style=flat-square&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP_APIs-FF6B35?style=flat-square&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎨 Frontend Excellence
-Building lightning-fast, responsive interfaces that deliver exceptional user experiences.
-
-**Technologies:**
-- ⚛️ React.js & Next.js
-- 📘 TypeScript
-- 🎨 Tailwind CSS & Modern UI
-- 🔄 State Management (Redux, React Query)
-- ⚡ Performance Optimization
-
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=marwaneTRK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E040FB&icon_color=E040FB&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true"/>
 </td>
-<td width="50%">
-
-### ⚙️ Backend Architecture
-Designing robust, scalable server solutions that handle millions of requests.
-
-**Technologies:**
-- 🟢 Node.js & Express
-- 🐍 FastAPI (Python)
-- 🔐 JWT Authentication
-- 📡 RESTful APIs
-- 🔌 Real-time (Socket.io)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗄️ Database & Caching
-Architecting efficient data layers for optimal performance.
-
-**Technologies:**
-- 🍃 MongoDB
-- ⚡ Redis Caching
-- 🔍 Vector Databases (RAG)
-- 📊 MySQL
-- 🔄 Database Optimization
-
-</td>
-<td width="50%">
-
-### ☁️ DevOps & Deployment
-Streamlining workflows from development to production.
-
-**Technologies:**
-- 🐳 Docker & Kubernetes
-- ☁️ AWS Cloud Services
-- 🔄 CI/CD (Github Action)
-- 🐧 Linux Systems
-- 📦 Microservices
-
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaneTRK&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=E040FB&text_color=ffffff"/>
 </td>
 </tr>
 </table>
 
-## 🤖 AI-Powered Solutions
-
-Integrating cutting-edge AI capabilities into web applications:
-- 🧠 **RAG Systems** - Smart document processing & retrieval
-- 💬 **Conversational AI** - Intelligent chatbots & assistants
-- 🎯 **AI-Driven Features** - Quiz generation, summaries, insights
-- 🔗 **API Integration** - Groq, OpenAI, ElevenLabs
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com?user=marwaneTRK&hide_border=true&background=0D1117&ring=E040FB&fire=FF6D00&currStreakLabel=E040FB&sideLabels=E040FB&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
-## 🌍 Working With Clients Worldwide
+---
 
 <div align="center">
 
-| 🇲🇦 Morocco | 🇨🇦 Canada | 🇫🇷 France | 🇨🇳 China |
-|:---:|:---:|:---:|:---:|
-| **Based** | **Clients** | **Education** | **Education** |
-
-**Languages:** Arabic (Native) • French (Fluent) • English (Professional)
-
-</div>
-
-## 🎓 Continuous Learning
-
-```javascript
-const currentFocus = {
-  mastering: ["Kubernetes", "Advanced AI Integration", "System Design"],
-  exploring: ["Three.js", "WebGL", "Advanced Animations"],
-  practicing: ["Clean Architecture", "Design Patterns", "Scalability"],
-  teaching: ["Mentoring junior developers", "Tech community contribution"]
-};
-```
-
-## 🤝 Let's Build Something Amazing
-
-I'm always interested in exciting projects and collaboration opportunities. Whether you need:
-
-- ✨ A modern web application from scratch
-- 🔄 Legacy system modernization
-- 🚀 Performance optimization
-- 🤖 AI integration into existing platforms
-- 👥 Technical consultation
-- 📈 Scalable architecture design
-
-**I turn ideas into production-ready solutions.**
-
-<div align="center">
-
-### 📬 Get In Touch
+### 📬 Got an idea? Let's build it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-traiki-59a00a256)
 [![Email](https://img.shields.io/badge/Gmail-marwantraiki@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwantraiki@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+212_624_539_804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212624539804)
 
----
-
-**Open to freelance opportunities and full-time positions**
-
-*Currently building AI-powered solutions @ Orange Digital Center*
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+*Morocco 🇲🇦 · Arabic · French · English — Available worldwide*
 
 </div>
